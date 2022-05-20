@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<protocolo
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="xsdProtocolo.xsd">
+
+	<apresentar>
+		<resposta>
+			<barco tipo="P">
+				<posicao>I9</posicao>
+				<posicao>H9</posicao>
+				<posicao>G9</posicao>
+				<posicao>F9</posicao>
+				<posicao>E9</posicao>
+			</barco>
+			<barco tipo="C">
+				<posicao>A7</posicao>
+				<posicao>A8</posicao>
+				<posicao>A9</posicao>
+			</barco>
+			<barco tipo="S">
+				<posicao>B1</posicao>
+				<posicao>B2</posicao>
+			</barco>
+			<barco tipo="S">
+				<posicao>E1</posicao>
+				<posicao>D1</posicao>
+			</barco>
+			<barco tipo="T">
+				<posicao>H4</posicao>
+				<posicao>H5</posicao>
+				<posicao>H6</posicao>
+				<posicao>H7</posicao>
+			</barco>
+			<barco tipo="T">
+				<posicao>D4</posicao>
+				<posicao>D5</posicao>
+				<posicao>D6</posicao>
+				<posicao>D7</posicao>
+			</barco>
+			<barco tipo="C">
+				<posicao>J5</posicao>
+				<posicao>J6</posicao>
+				<posicao>J7</posicao>
+			</barco>
+			<barco tipo="S">
+				<posicao>B5</posicao>
+				<posicao>B4</posicao>
+			</barco>
+			<barco tipo="C">
+				<posicao>F5</posicao>
+				<posicao>F4</posicao>
+				<posicao>F3</posicao>
+			</barco>
+			<barco tipo="S">
+				<posicao>H1</posicao>
+				<posicao>H2</posicao>
+			</barco>
+			<tiroSofrido posicao="C6">O</tiroSofrido>
+			<tiroDado posicao="I6">X</tiroDado>
+		</resposta>
+	</apresentar>
+</protocolo>
